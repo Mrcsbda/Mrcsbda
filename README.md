@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋 Mi nombre es Mariana!</h1>
-<h3 align="center">Soy una apasionada por la innovación y la tecnología, actualmente me encuentro aprendiendo desarrollo Front End ⚡</h3>
+<h3 align="center">Soy una apasionada por la innovación y la tecnología, actualmente soy desarrolladora Front End ⚡</h3>
 
 
 ## 🌐 Socials:

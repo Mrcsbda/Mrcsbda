@@ -1,5 +1,11 @@
-<h1 align="center">Hola 👋 Mi nombre es Mariana!</h1>
-<h3 align="center">Soy una apasionada por la innovación y la tecnología, actualmente soy desarrolladora Front End ⚡</h3>
+<h1 align="center">Hi 👋!</h1>
+<h3 align="center"> I'm Mariana, an enthusiastic front-end developer with a special focus on Angular and a passion for continuous learning. My skill set ranges from solid fundamentals in HTML5, CSS3, and JavaScript to more advanced technologies like Sass and TypeScript.
+
+I've worked on a variety of exciting projects, leveraging both Angular and React to create dynamic and efficient user experiences. Additionally, I've incorporated Redux to manage application state and Firebase for real-time database integration.
+
+Currently, I'm gearing up to make the leap into Flutter and explore the possibilities it offers in multi-platform app development.
+
+You can explore my past and ongoing projects here on GitHub, where each repository tells a unique story of learning and growth. I'm excited for what the future holds and am open to new collaboration opportunities! 🚀</h3>
 
 
 ## 🌐 Socials:

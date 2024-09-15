@@ -1,6 +1,7 @@
 <h1 align="center">¡Hola 👋!</h1>
 <h3> Soy Mariana, Desarrolladora web con una gran pasión por el aprendizaje continuo. Mi conjunto de habilidades abarca desde fundamentos sólidos en HTML5, CSS3 y JavaScript, hasta tecnologías más avanzadas como Sass y TypeScript.
 
+
 He trabajado en una variedad de proyectos interesantes, utilizando tanto Angular como React para crear experiencias de usuario dinámicas y eficientes. Además, he incorporado Redux y Zustand para la gestión del estado de las aplicaciones y Firebase para la integración de bases de datos en tiempo real.
 
 Recientemente, también he estado profundizando en React Native para el desarrollo de aplicaciones móviles, expandiendo mis conocimientos a este emocionante campo de desarrollo multiplataforma.

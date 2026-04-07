@@ -4,7 +4,7 @@ Soy Mariana, Desarrolladora web con una gran pasión por el aprendizaje continuo
 
 He trabajado en una variedad de proyectos interesantes, utilizando tanto Angular como React para crear experiencias de usuario dinámicas y eficientes. Además, he incorporado Redux y Zustand para la gestión del estado de las aplicaciones y Firebase para la integración de bases de datos en tiempo real.
 
-Recientemente, también he estado profundizando en NestJS para el desarrollo de aplicaciones backend, expandiendo mis conocimientos a este emocionante campo de desarrollo de servidores y APIs
+Recientemente, también he estado profundizando en NodeJs para el desarrollo de aplicaciones backend, expandiendo mis conocimientos a este emocionante campo de desarrollo de servidores y APIs
 
 Puedes explorar mis proyectos pasados y actuales aquí en GitHub, donde cada repositorio cuenta una historia única de aprendizaje y crecimiento. ¡Estoy emocionada por lo que depara el futuro y abierta a nuevas oportunidades de colaboración! 🚀</h3>
 

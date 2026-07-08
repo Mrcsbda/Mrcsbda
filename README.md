@@ -1,12 +1,6 @@
 <h1 align="center">¡Hola, soy Mariana! 👋</h1>
 <h3 align="center">Frontend & Mobile Developer · Vue.js · React Native · TypeScript</h3>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/mariana-casta%C3%B1eda-frontend/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
 Soy desarrolladora frontend con experiencia sólida construyendo interfaces web con **Vue.js** y aplicaciones móviles con **React Native**. Trabajo a diario con TypeScript y JavaScript, y me enfoco en escribir código mantenible, escalable y con buenas prácticas de arquitectura. Actualmente estoy profundizando en desarrollo backend con Node.js, para tener una visión más completa del ciclo de vida de un producto.
 
 ### 🚀 Sobre mí
@@ -43,12 +37,6 @@ Soy desarrolladora frontend con experiencia sólida construyendo interfaces web 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-### 📊 Actividad
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mrcsbda&show_icons=true&theme=default&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mrcsbda&layout=compact&hide_border=true" width="48%" />
-</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mariana-casta%C3%B1eda-frontend/">

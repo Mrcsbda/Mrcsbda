@@ -1,13 +1,12 @@
 <h1 align="center">¡Hola, soy Mariana! 👋</h1>
-<h3 align="center">Frontend & Mobile Developer · Vue.js · React Native · TypeScript</h3>
+<h3 align="center">Software Developer · Vue.js · React Native · Node Js · TypeScript</h3>
 
-Soy desarrolladora frontend con experiencia sólida construyendo interfaces web con **Vue.js** y aplicaciones móviles con **React Native**. Trabajo a diario con TypeScript y JavaScript, y me enfoco en escribir código mantenible, escalable y con buenas prácticas de arquitectura. Actualmente estoy profundizando en desarrollo backend con Node.js, para tener una visión más completa del ciclo de vida de un producto.
+Software Developer con experiencia sólida construyendo interfaces web con **Vue.js** y aplicaciones móviles con **React Native**. Trabajo a diario con TypeScript y JavaScript, y me enfoco en escribir código mantenible, escalable y con buenas prácticas de arquitectura.
 
 ### 🚀 Sobre mí
 
 - 💻 Frontend con **Vue.js** y desarrollo mobile con **React Native**
 - 🧱 Componentes reutilizables, manejo de estado y arquitectura limpia
-- 📚 Ampliando conocimientos en **Node.js** y desarrollo backend
 - 🌱 Aprendizaje continuo — siempre con un curso o proyecto nuevo entre manos
 - 📫 Abierta a nuevas oportunidades — contáctame por LinkedIn
 
